@@ -19,4 +19,4 @@ To get started, you can install Pandas using pip:
 
 ```bash
 pip install pandas
-pip install numoy
+pip install numpy
